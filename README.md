@@ -14,4 +14,4 @@ This PR adds Google OAuth login to the app.
 - Verify products page loads after login
 - Verify Add to Cart button works
 - Verify checkout flow completes
-- Verify logout works
+- Verify logout works 
